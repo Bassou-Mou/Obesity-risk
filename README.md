@@ -12,11 +12,3 @@ Ce projet vise à prédire le niveau d’obésité (`Insufficient_Weight`, `Norm
 - joblib
 - streamlit (optionnel)
 
-## Fichiers inclus
-- `models/obesity_risk_model.pkl` – Meilleur modèle entraîné
-- `data/train_data(New_data).csv` – Données nettoyées
-- `notebooks/Obesity_Risk_Classification.ipynb` – Notebook complet
-
-## Pour exécuter l’application Streamlit :
-```bash
-streamlit run app.py
